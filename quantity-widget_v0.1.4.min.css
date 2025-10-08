@@ -1,0 +1,1 @@
+input[data-jb-input=quantity]::-webkit-inner-spin-button,input[data-jb-input=quantity]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}input[type=number][data-jb-input=quantity]{-moz-appearance:textfield}input[data-jb-input=quantity]{outline:none}
